@@ -53,6 +53,7 @@ If Sunday doesn't correctly capture your command, you have several options to re
 - Users can teach Sunday custom commands or personalized interactions.
 - Great for tailoring responses—e.g., changing "How’s the weather?" to "Looking outside, it’s a good day to code!"
 - Enables dynamic learning without modifying the core code.
+- There are three check-boxes here that are explained at checkbox part, below
 
 ### Listen Again
 
@@ -70,3 +71,44 @@ If Sunday doesn't correctly capture your command, you have several options to re
 - Prevents the need to manually close the program when finished.
 
 These refinements ensure that voice recognition is flexible, reducing frustration and increasing accuracy.
+
+## Advanced Command Customization (checkboxes)
+Sunday allows users to define custom sentences with three powerful options to shape how it processes commands:
+
+1- Variable Sentences (Dynamic Function Calls)
+When Variable is checked, the sentence becomes a function-like command.
+If users say the sentence followed by additional words, those extra words will be passed as parameters to the function.
+
+### Example:
+Let's say a user adds:
+```
+Open website
+```
+as a Variable sentence. Then, later they say:
+```
+Open website google.com
+```
+Sunday will recognize "google.com" as a parameter and pass it to the function handling the sentence.
+
+This allows for highly flexible commands without requiring predefined variations for every request.
+
+2- Listen After (Sequential Execution)
+If Listen After is checked, Sunday will wait and listen after executing the first command.
+This is useful when the user wants to issue follow-up commands after a task is completed.
+
+3- Add Here (Chained Commands)
+If Add Here is checked, the sentence attaches itself after another sentence, forming a chain of execution.
+The new sentence can only be called after the initial sentence but cannot be run independently.
+
+### Example:
+Sentence A: "Prepare a report" (added with **Listen After**).
+Sentence B: "Send report to manager" (added after Sentence A using **Add Here**).
+
+Now:
+
+If the user calls Sentence A, it automatically leads to Sentence B after completion.
+But if the user tries to call Sentence B directly, Sunday won't recognize it unless Sentence A was executed first.
+
+These features make Sunday intelligent, responsive, and capable of contextual conversation flows, ensuring smoother interactions for users.
+
+
