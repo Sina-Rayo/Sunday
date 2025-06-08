@@ -1,0 +1,347 @@
+[
+    41,
+    {
+        "ind": 1,
+        "tag": "Root",
+        "function": null,
+        "children": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            12,
+            13,
+            14,
+            15,
+            16,
+            18,
+            20,
+            21,
+            23,
+            24,
+            25,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41
+        ],
+        "parent": 1
+    },
+    {
+        "ind": 2,
+        "tag": "wiym",
+        "function": "say Sina Rayo",
+        "children": [],
+        "parent": 1
+    },
+    {
+        "ind": 3,
+        "tag": "wiym*",
+        "function": "say I Suppose its you",
+        "children": [],
+        "parent": 1
+    },
+    {
+        "ind": 4,
+        "tag": "wyn",
+        "function": "say are  you ,idiot?",
+        "children": [],
+        "parent": 1
+    },
+    {
+        "ind": 5,
+        "tag": "wiyn",
+        "function": "are you idiot?",
+        "children": [],
+        "parent": 1
+    },
+    {
+        "ind": 6,
+        "tag": "hayt",
+        "function": "say i'm fine",
+        "children": [],
+        "parent": 1
+    },
+    {
+        "ind": 7,
+        "tag": "ishayt",
+        "function": "say i said i'm fine\n",
+        "children": [],
+        "parent": 1
+    },
+    {
+        "ind": 8,
+        "tag": "iwtfy",
+        "function": "say alright\n",
+        "children": [],
+        "parent": 1
+    },
+    {
+        "ind": 9,
+        "tag": "hwyy",
+        "function": "say not bad\n",
+        "children": [],
+        "parent": 1
+    },
+    {
+        "ind": 10,
+        "tag": "iwtctyh",
+        "function": "say ok when are you coming?\n",
+        "children": [
+            11
+        ],
+        "parent": 1,
+        "listen_after": true
+    },
+    {
+        "ind": 11,
+        "tag": "ict",
+        "function": "say i'm preparing\n",
+        "children": [],
+        "parent": 10
+    },
+    {
+        "ind": 12,
+        "tag": "tmaj",
+        "function": "say what kind of joke?\n",
+        "children": [],
+        "parent": 1,
+        "listen_after": true
+    },
+    {
+        "ind": 13,
+        "tag": "tmaj*",
+        "function": "say what kind of joke?\n",
+        "children": [],
+        "parent": 1,
+        "listen_after": true
+    },
+    {
+        "ind": 14,
+        "tag": "tmaj**",
+        "function": "say what kind of joke?\n",
+        "children": [],
+        "parent": 1,
+        "listen_after": true
+    },
+    {
+        "ind": 15,
+        "tag": "hdyft",
+        "function": "say i feel bad do you want to know why?\n",
+        "children": [
+            22
+        ],
+        "parent": 1,
+        "listen_after": true
+    },
+    {
+        "ind": 16,
+        "tag": "dyls",
+        "function": "say no ,, what about you?\n",
+        "children": [
+            17,
+            19
+        ],
+        "parent": 1,
+        "listen_after": true
+    },
+    {
+        "ind": 17,
+        "tag": "ide",
+        "function": "say i'm glad\n",
+        "children": [],
+        "parent": 16
+    },
+    {
+        "ind": 18,
+        "tag": "sf",
+        "function": "search",
+        "children": [],
+        "parent": 1
+    },
+    {
+        "ind": 19,
+        "tag": "mn",
+        "function": "say i'm glad\n",
+        "children": [],
+        "parent": 16
+    },
+    {
+        "ind": 20,
+        "tag": "pm",
+        "function": "play music\n",
+        "children": [],
+        "parent": 1
+    },
+    {
+        "ind": 21,
+        "tag": "ayab",
+        "function": "say i'm male\n\n",
+        "children": [],
+        "parent": 1
+    },
+    {
+        "ind": 22,
+        "tag": "w",
+        "function": "say because i'm talking to you, bitch\n",
+        "children": [],
+        "parent": 15
+    },
+    {
+        "ind": 23,
+        "tag": "h",
+        "function": "say hello to you\n",
+        "children": [],
+        "parent": 1
+    },
+    {
+        "ind": 24,
+        "tag": "cy",
+        "function": "ok\n",
+        "children": [],
+        "parent": 1
+    },
+    {
+        "ind": 25,
+        "tag": "tmay",
+        "function": "say i'm your bitch sir\n",
+        "children": [
+            26,
+            27
+        ],
+        "parent": 1
+    },
+    {
+        "ind": 26,
+        "tag": "iwfym",
+        "function": "say are'nt you my mother?\n",
+        "children": [],
+        "parent": 25,
+        "listen_after": true
+    },
+    {
+        "ind": 27,
+        "tag": "iwtfym",
+        "function": "say are'nt you my mother?\n",
+        "children": [
+            28
+        ],
+        "parent": 25,
+        "listen_after": true
+    },
+    {
+        "ind": 28,
+        "tag": "m",
+        "function": "say so wanna some porn?\n",
+        "children": [],
+        "parent": 27,
+        "listen_after": true
+    },
+    {
+        "ind": 29,
+        "tag": "amhwd",
+        "function": "\n",
+        "children": [],
+        "parent": 1
+    },
+    {
+        "ind": 30,
+        "tag": "sh",
+        "function": "say hello how are you\n",
+        "children": [],
+        "parent": 1
+    },
+    {
+        "ind": 31,
+        "tag": "iwtfhm",
+        "function": "say go ahead\n",
+        "children": [],
+        "parent": 1
+    },
+    {
+        "ind": 32,
+        "tag": "iwtfym*",
+        "function": "say go ahead\n\n",
+        "children": [],
+        "parent": 1
+    },
+    {
+        "ind": 33,
+        "tag": "yap",
+        "function": "say i know\n",
+        "children": [],
+        "parent": 1,
+        "listen_after": true
+    },
+    {
+        "ind": 34,
+        "tag": "ikt",
+        "function": "say ok\n\n",
+        "children": [],
+        "parent": 1
+    },
+    {
+        "ind": 35,
+        "tag": "yaap",
+        "function": "say i know\n",
+        "children": [],
+        "parent": 1,
+        "listen_after": true
+    },
+    {
+        "ind": 36,
+        "tag": "hhay",
+        "function": "say thank you\n",
+        "children": [],
+        "parent": 1
+    },
+    {
+        "ind": 37,
+        "tag": "ymc",
+        "function": "\n",
+        "children": [],
+        "parent": 1
+    },
+    {
+        "ind": 38,
+        "tag": "mf",
+        "function": "run md ",
+        "children": [],
+        "parent": 1
+    },
+    {
+        "ind": 39,
+        "tag": "c",
+        "function": "run md ",
+        "children": [],
+        "parent": 1
+    },
+    {
+        "ind": 40,
+        "tag": "ss",
+        "function": "say\n",
+        "children": [],
+        "parent": 1
+    },
+    {
+        "ind": 41,
+        "tag": "s",
+        "function": "say\n",
+        "children": [],
+        "parent": 1
+    }
+]

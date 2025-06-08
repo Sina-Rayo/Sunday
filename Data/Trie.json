@@ -1,0 +1,831 @@
+[
+    {
+        "ind": 0,
+        "children": [
+            1,
+            6,
+            9,
+            13,
+            17,
+            34,
+            37,
+            41,
+            49,
+            55,
+            57,
+            59,
+            61,
+            65,
+            66,
+            67,
+            77,
+            78,
+            83,
+            88,
+            93,
+            100,
+            103,
+            105,
+            106
+        ],
+        "sentence": "ROOT"
+    },
+    {
+        "ind": 1,
+        "sentence": "who",
+        "children": [
+            2
+        ],
+        "tag": null
+    },
+    {
+        "ind": 2,
+        "sentence": "is",
+        "children": [
+            3
+        ],
+        "tag": null
+    },
+    {
+        "ind": 3,
+        "sentence": "your",
+        "children": [
+            4,
+            5
+        ],
+        "tag": null
+    },
+    {
+        "ind": 4,
+        "sentence": "maker",
+        "children": [],
+        "tag": "wiym"
+    },
+    {
+        "ind": 5,
+        "sentence": "man",
+        "children": [],
+        "tag": "wiym*"
+    },
+    {
+        "ind": 6,
+        "sentence": "what's",
+        "children": [
+            7
+        ],
+        "tag": null
+    },
+    {
+        "ind": 7,
+        "sentence": "your",
+        "children": [
+            8
+        ],
+        "tag": null
+    },
+    {
+        "ind": 8,
+        "sentence": "name",
+        "children": [],
+        "tag": "wyn"
+    },
+    {
+        "ind": 9,
+        "sentence": "what",
+        "children": [
+            10
+        ],
+        "tag": null
+    },
+    {
+        "ind": 10,
+        "sentence": "is",
+        "children": [
+            11
+        ],
+        "tag": null
+    },
+    {
+        "ind": 11,
+        "sentence": "your",
+        "children": [
+            12
+        ],
+        "tag": null
+    },
+    {
+        "ind": 12,
+        "sentence": "name",
+        "children": [],
+        "tag": "wiyn"
+    },
+    {
+        "ind": 13,
+        "sentence": "how",
+        "children": [
+            14,
+            27,
+            45
+        ],
+        "tag": null
+    },
+    {
+        "ind": 14,
+        "sentence": "are",
+        "children": [
+            15
+        ],
+        "tag": null
+    },
+    {
+        "ind": 15,
+        "sentence": "you",
+        "children": [
+            16
+        ],
+        "tag": null
+    },
+    {
+        "ind": 16,
+        "sentence": "today",
+        "children": [],
+        "tag": "hayt"
+    },
+    {
+        "ind": 17,
+        "sentence": "i",
+        "children": [
+            18,
+            23,
+            53,
+            71,
+            91
+        ],
+        "tag": null
+    },
+    {
+        "ind": 18,
+        "sentence": "said",
+        "children": [
+            19
+        ],
+        "tag": null
+    },
+    {
+        "ind": 19,
+        "sentence": "how",
+        "children": [
+            20
+        ],
+        "tag": null
+    },
+    {
+        "ind": 20,
+        "sentence": "are",
+        "children": [
+            21
+        ],
+        "tag": null
+    },
+    {
+        "ind": 21,
+        "sentence": "you",
+        "children": [
+            22
+        ],
+        "tag": null
+    },
+    {
+        "ind": 22,
+        "sentence": "today",
+        "children": [],
+        "tag": "ishayt"
+    },
+    {
+        "ind": 23,
+        "sentence": "want",
+        "children": [
+            24
+        ],
+        "tag": null
+    },
+    {
+        "ind": 24,
+        "sentence": "to",
+        "children": [
+            25,
+            30
+        ],
+        "tag": null
+    },
+    {
+        "ind": 25,
+        "sentence": "fuck",
+        "children": [
+            26,
+            75,
+            85
+        ],
+        "tag": null
+    },
+    {
+        "ind": 26,
+        "sentence": "you",
+        "children": [],
+        "tag": "iwtfy"
+    },
+    {
+        "ind": 27,
+        "sentence": "was",
+        "children": [
+            28
+        ],
+        "tag": null
+    },
+    {
+        "ind": 28,
+        "sentence": "you",
+        "children": [
+            29
+        ],
+        "tag": null
+    },
+    {
+        "ind": 29,
+        "sentence": "yesterday",
+        "children": [],
+        "tag": "hwyy"
+    },
+    {
+        "ind": 30,
+        "sentence": "come",
+        "children": [
+            31
+        ],
+        "tag": null
+    },
+    {
+        "ind": 31,
+        "sentence": "to",
+        "children": [
+            32
+        ],
+        "tag": null
+    },
+    {
+        "ind": 32,
+        "sentence": "your",
+        "children": [
+            33
+        ],
+        "tag": null
+    },
+    {
+        "ind": 33,
+        "sentence": "house",
+        "children": [],
+        "tag": "iwtctyh"
+    },
+    {
+        "ind": 34,
+        "sentence": "i'm",
+        "children": [
+            35
+        ],
+        "tag": null
+    },
+    {
+        "ind": 35,
+        "sentence": "coming",
+        "children": [
+            36
+        ],
+        "tag": null
+    },
+    {
+        "ind": 36,
+        "sentence": "tomorrow",
+        "children": [],
+        "tag": "ict"
+    },
+    {
+        "ind": 37,
+        "sentence": "they'll",
+        "children": [
+            38
+        ],
+        "tag": null
+    },
+    {
+        "ind": 38,
+        "sentence": "me",
+        "children": [
+            39
+        ],
+        "tag": null
+    },
+    {
+        "ind": 39,
+        "sentence": "a",
+        "children": [
+            40
+        ],
+        "tag": null
+    },
+    {
+        "ind": 40,
+        "sentence": "joke",
+        "children": [],
+        "tag": "tmaj"
+    },
+    {
+        "ind": 41,
+        "sentence": "tell",
+        "children": [
+            42
+        ],
+        "tag": null
+    },
+    {
+        "ind": 42,
+        "sentence": "me",
+        "children": [
+            43,
+            69
+        ],
+        "tag": null
+    },
+    {
+        "ind": 43,
+        "sentence": "a",
+        "children": [
+            44
+        ],
+        "tag": null
+    },
+    {
+        "ind": 44,
+        "sentence": "joke",
+        "children": [],
+        "tag": "tmaj**"
+    },
+    {
+        "ind": 45,
+        "sentence": "do",
+        "children": [
+            46
+        ],
+        "tag": null
+    },
+    {
+        "ind": 46,
+        "sentence": "you",
+        "children": [
+            47
+        ],
+        "tag": null
+    },
+    {
+        "ind": 47,
+        "sentence": "feel",
+        "children": [
+            48
+        ],
+        "tag": null
+    },
+    {
+        "ind": 48,
+        "sentence": "today",
+        "children": [],
+        "tag": "hdyft"
+    },
+    {
+        "ind": 49,
+        "sentence": "do",
+        "children": [
+            50
+        ],
+        "tag": null
+    },
+    {
+        "ind": 50,
+        "sentence": "you",
+        "children": [
+            51
+        ],
+        "tag": null
+    },
+    {
+        "ind": 51,
+        "sentence": "like",
+        "children": [
+            52
+        ],
+        "tag": null
+    },
+    {
+        "ind": 52,
+        "sentence": "school",
+        "children": [],
+        "tag": "dyls"
+    },
+    {
+        "ind": 53,
+        "sentence": "don't",
+        "children": [
+            54
+        ],
+        "tag": null
+    },
+    {
+        "ind": 54,
+        "sentence": "either",
+        "children": [],
+        "tag": "ide"
+    },
+    {
+        "ind": 55,
+        "sentence": "search",
+        "children": [
+            56
+        ],
+        "tag": null
+    },
+    {
+        "ind": 56,
+        "sentence": "for",
+        "children": [],
+        "tag": "sf",
+        "v_sen": true
+    },
+    {
+        "ind": 57,
+        "sentence": "me",
+        "children": [
+            58
+        ],
+        "tag": null
+    },
+    {
+        "ind": 58,
+        "sentence": "neither",
+        "children": [],
+        "tag": "mn"
+    },
+    {
+        "ind": 59,
+        "sentence": "play",
+        "children": [
+            60
+        ],
+        "tag": null
+    },
+    {
+        "ind": 60,
+        "sentence": "music",
+        "children": [],
+        "tag": "pm"
+    },
+    {
+        "ind": 61,
+        "sentence": "are",
+        "children": [
+            62
+        ],
+        "tag": null
+    },
+    {
+        "ind": 62,
+        "sentence": "you",
+        "children": [
+            63
+        ],
+        "tag": null
+    },
+    {
+        "ind": 63,
+        "sentence": "a",
+        "children": [
+            64
+        ],
+        "tag": null
+    },
+    {
+        "ind": 64,
+        "sentence": "bitch",
+        "children": [],
+        "tag": "ayab"
+    },
+    {
+        "ind": 65,
+        "sentence": "why",
+        "children": [],
+        "tag": "w"
+    },
+    {
+        "ind": 66,
+        "sentence": "hello",
+        "children": [
+            97
+        ],
+        "tag": "h"
+    },
+    {
+        "ind": 67,
+        "sentence": "chicken",
+        "children": [
+            68
+        ],
+        "tag": null
+    },
+    {
+        "ind": 68,
+        "sentence": "you",
+        "children": [],
+        "tag": "cy"
+    },
+    {
+        "ind": 69,
+        "sentence": "about",
+        "children": [
+            70
+        ],
+        "tag": null
+    },
+    {
+        "ind": 70,
+        "sentence": "yourself",
+        "children": [],
+        "tag": "tmay"
+    },
+    {
+        "ind": 71,
+        "sentence": "wanna",
+        "children": [
+            72
+        ],
+        "tag": null
+    },
+    {
+        "ind": 72,
+        "sentence": "fuck",
+        "children": [
+            73
+        ],
+        "tag": null
+    },
+    {
+        "ind": 73,
+        "sentence": "your",
+        "children": [
+            74
+        ],
+        "tag": null
+    },
+    {
+        "ind": 74,
+        "sentence": "mother",
+        "children": [],
+        "tag": "iwfym"
+    },
+    {
+        "ind": 75,
+        "sentence": "your",
+        "children": [
+            76,
+            87
+        ],
+        "tag": null
+    },
+    {
+        "ind": 76,
+        "sentence": "mother",
+        "children": [],
+        "tag": "iwtfym"
+    },
+    {
+        "ind": 77,
+        "sentence": "maybe",
+        "children": [],
+        "tag": "m"
+    },
+    {
+        "ind": 78,
+        "sentence": "asked",
+        "children": [
+            79
+        ],
+        "tag": null
+    },
+    {
+        "ind": 79,
+        "sentence": "me",
+        "children": [
+            80
+        ],
+        "tag": null
+    },
+    {
+        "ind": 80,
+        "sentence": "how",
+        "children": [
+            81
+        ],
+        "tag": null
+    },
+    {
+        "ind": 81,
+        "sentence": "we",
+        "children": [
+            82
+        ],
+        "tag": null
+    },
+    {
+        "ind": 82,
+        "sentence": "do",
+        "children": [],
+        "tag": "amhwd"
+    },
+    {
+        "ind": 83,
+        "sentence": "samia",
+        "children": [
+            84
+        ],
+        "tag": null
+    },
+    {
+        "ind": 84,
+        "sentence": "hello",
+        "children": [],
+        "tag": "sh"
+    },
+    {
+        "ind": 85,
+        "sentence": "her",
+        "children": [
+            86
+        ],
+        "tag": null
+    },
+    {
+        "ind": 86,
+        "sentence": "mom",
+        "children": [],
+        "tag": "iwtfhm"
+    },
+    {
+        "ind": 87,
+        "sentence": "mom",
+        "children": [],
+        "tag": "iwtfym*"
+    },
+    {
+        "ind": 88,
+        "sentence": "you're",
+        "children": [
+            89
+        ],
+        "tag": null
+    },
+    {
+        "ind": 89,
+        "sentence": "a",
+        "children": [
+            90
+        ],
+        "tag": null
+    },
+    {
+        "ind": 90,
+        "sentence": "pussy",
+        "children": [],
+        "tag": "yap"
+    },
+    {
+        "ind": 91,
+        "sentence": "know",
+        "children": [
+            92
+        ],
+        "tag": null
+    },
+    {
+        "ind": 92,
+        "sentence": "too",
+        "children": [],
+        "tag": "ikt"
+    },
+    {
+        "ind": 93,
+        "sentence": "you",
+        "children": [
+            94
+        ],
+        "tag": null
+    },
+    {
+        "ind": 94,
+        "sentence": "are",
+        "children": [
+            95
+        ],
+        "tag": null
+    },
+    {
+        "ind": 95,
+        "sentence": "a",
+        "children": [
+            96
+        ],
+        "tag": null
+    },
+    {
+        "ind": 96,
+        "sentence": "pussy",
+        "children": [],
+        "tag": "yaap"
+    },
+    {
+        "ind": 97,
+        "sentence": "how",
+        "children": [
+            98
+        ],
+        "tag": null
+    },
+    {
+        "ind": 98,
+        "sentence": "are",
+        "children": [
+            99
+        ],
+        "tag": null
+    },
+    {
+        "ind": 99,
+        "sentence": "you",
+        "children": [],
+        "tag": "hhay"
+    },
+    {
+        "ind": 100,
+        "sentence": "your",
+        "children": [
+            101
+        ],
+        "tag": null
+    },
+    {
+        "ind": 101,
+        "sentence": "main",
+        "children": [
+            102
+        ],
+        "tag": null
+    },
+    {
+        "ind": 102,
+        "sentence": "care",
+        "children": [],
+        "tag": "ymc"
+    },
+    {
+        "ind": 103,
+        "sentence": "make",
+        "children": [
+            104
+        ],
+        "tag": null
+    },
+    {
+        "ind": 104,
+        "sentence": "folder",
+        "children": [],
+        "tag": "mf"
+    },
+    {
+        "ind": 105,
+        "sentence": "create",
+        "children": [],
+        "tag": "c",
+        "v_sen": true
+    },
+    {
+        "ind": 106,
+        "sentence": "say",
+        "children": [
+            107
+        ],
+        "tag": "s",
+        "v_sen": true
+    },
+    {
+        "ind": 107,
+        "sentence": "something",
+        "children": [],
+        "tag": "ss",
+        "v_sen": true
+    }
+]

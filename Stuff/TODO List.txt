@@ -1,0 +1,29 @@
+User Envoierment -/
+Graph window -/
+conversation -/
+listen adter , add here -/
+variable sentences -/
+mouse press -/
+
+-----------  MAIN IDEAS  ------------
+
+
+' and ' Between sentences
+adding games
+using 'tab' button
+Chess Grandmaster
+Web Search Engine
+Command-Line Terminal
+Web Browser
+Video Subtitle Generator
+Encoder - Decoder ( cipher )
+Translation
+Antivirus Software
+
+
+
+-----------  FUNCTIONS   ------------
+
++ web scraping
+	weather
+	
